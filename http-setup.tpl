@@ -6,7 +6,7 @@ sudo apt-get install -yy git curl
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 
-git clone https://github.com/Nightylol911/test-capstone.git
-cd test-capstone
+git clone https://github.com/Nightylol911/capstone-project.git
+cd capstone-project
 
 docker compose up -d
