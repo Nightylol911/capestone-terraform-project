@@ -1,0 +1,6 @@
+/.terraform
+.terraform.lock.hcl
+variables.tf
+myKey.pem
+terraform.tfstate
+.terraform.tfstate.lock.info
